@@ -1,0 +1,1 @@
+Modeling nodes and connections visually is satisfying. In this model, I have created a generic nodes and connection model. The nodes get brighter when they are close to each other and dimmer when they are away. Their connection exhibit the same property.
